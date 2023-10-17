@@ -1,0 +1,19 @@
+<link href="https://cdn.jsdelivr.net/npm/remixicon@3.4.0/fonts/remixicon.css" rel="stylesheet">
+
+arrow-> <i class="ri-arrow-right-line"></i> 
+
+insta -> <i class="ri-instagram-fill"></i>
+
+feesbook-> <i class="ri-facebook-box-fill"></i>
+
+twitter-> <i class="ri-twitter-fill"></i>
+
+menu-line-> <i class="ri-menu-line"></i>
+
+
+
+/* @import url("https://fonts.googleapis.com/css2?family=Alef:wght@700&family=Bakbak+One&family=Montserrat:wght@400;900&family=Oswald:wght@400;500&family=Roboto:wght@900&family=Ubuntu:wght@700&display=swap"); */
+/* font-family: 'Alef', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Ubuntu', sans-serif; */
+/* font-family: 'Montserrat', sans-serif;  */
